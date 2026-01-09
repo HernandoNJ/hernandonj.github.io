@@ -27,12 +27,12 @@ Passionate about creating engaging, optimized, and scalable interactive experien
 
 **🎓 BSc in Systems Engineering**  
 _Remington Corporation University, 2021_  
-📊 GPA: ~4.3/5.0  
+📊 GPA: 4.5  
 🧩 Coursework: Algorithms, Databases, Software Architecture, Computer Networks
 
 **💼 BSc in Financial Management**  
 _Minuto de Dios Corporation University, 2012_  
-📊 GPA: ~4.3/5.0  
+📊 GPA: ~4.3  
 📘 Coursework: Business Management, Marketing, Financial Planning, Economics, Accounting
 
 ---
@@ -220,21 +220,3 @@ _Space shooter and Stealth Game demos not available due to issues with simmer.io
 - 🎓 _University Graduates Representative_ — UniRemington, 2024
 - 🥇 _Best Graduate Student_ — PCI, 1996
 - 🥇 _Best ICFES Score_ — PCI, 1996
-
----
-
-<div align="center"
-     style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; padding: 5px;">
-  <img
-    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzRtZjVzcGo2MzZqZDQ2cnhmMGN6b2tyNWx0aTVoOXZoN3diOHB5cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif"
-    alt="Stealth Game"
-    width="200"
-    style="border-radius: 5px; border: 1px solid #ddd; margin: 5px;"
-  />
-  <img
-    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGVicXcyZWF6aWc4NXUwZHh0b2htZW1ubWRocnludG1yY3JxN2k0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QpVUMRUJGokfqXyfa1/giphy.gif"
-    alt="Stealth Game"
-    width="200"
-    style="border-radius: 5px; border: 1px solid #ddd; margin: 5px;"
-  />
-</div>
