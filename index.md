@@ -80,7 +80,7 @@ Unity | C# | OpenXR | Oculus | XRIT
   <img
     src="Images\Torres Bulevar.png"
     width=700
-    style="border-radius: 5px; border: 1px solid #ddd; margin: 50px;"
+    style="border-radius: 5px; border: 1px solid #ddd; margin: 20px;"
     />
 </div>
 
@@ -103,7 +103,7 @@ Unity | C# | OpenXR | Oculus | XRIT
   <img
     src="Images\Torres 360.png"
     width=700
-    style="border-radius: 5px; border: 1px solid #ddd; margin: 50px;"
+    style="border-radius: 5px; border: 1px solid #ddd; margin: 20px;"
     />
 </div>
 
