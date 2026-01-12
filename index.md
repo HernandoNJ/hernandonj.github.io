@@ -78,8 +78,9 @@ Unity | C# | OpenXR | Oculus | XRIT
 <div  align="center" 
       style="display: flex; justify-content: center; gap: 20px;">
   <img
-    src="https://scontent.oculuscdn.com/v/t64.5771-25/57575367_4340028949556283_2240389618048913854_n.jpg?stp=dst-jpg_q92_s1440x1440_tt6&_nc_cat=111&ccb=1-7&_nc_sid=6e7a0a&_nc_ohc=9bAFnY4tVIgQ7kNvwHG93P2&_nc_oc=Adl9ZUD0ngqzae0Mffl9aAlRJxylTSuxCGQCVITxL5vcHK9i66gCq7HLKnqS5Kpzbbs&_nc_zt=3&_nc_ht=scontent.oculuscdn.com&oh=00_Aff_HdSpal_6JYmEIejLQKXgb9CAvAPp1HQECu9QEYXu4Q&oe=68FF8FE4"
-    width=1000
+    src="Images\Torres Bulevar.png"
+    width=700
+    style="border-radius: 5px; border: 1px solid #ddd; margin: 50px;"
     />
 </div>
 
@@ -100,8 +101,9 @@ Unity | C# | OpenXR | Oculus | XRIT
 <div  align="center" 
       style="display: flex; justify-content: center; gap: 20px;">
   <img
-    src="https://scontent.oculuscdn.com/v/t64.5771-25/38974627_313249071245479_7869210693608083795_n.jpg?stp=dst-jpg_q92_s1440x1440_tt6&_nc_cat=111&ccb=1-7&_nc_sid=6e7a0a&_nc_ohc=lx0PIWa1zsgQ7kNvwHL8auR&_nc_oc=Adk567J_zOm_Cz-GegYYvik8-R40KIDP_uE36-wc8ZyJnWptmujzW0OoHYwLMWuHqB8&_nc_zt=3&_nc_ht=scontent.oculuscdn.com&oh=00_AfcHwx9aeJotZQHe3EjnR850D4xRDdf50UIp2lKVs6JNfA&oe=68FF799F"
-    width=1000
+    src="Images\Torres 360.png"
+    width=700
+    style="border-radius: 5px; border: 1px solid #ddd; margin: 50px;"
     />
 </div>
 
