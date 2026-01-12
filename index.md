@@ -208,7 +208,7 @@ _Space shooter and Stealth Game demos not available due to issues with simmer.io
 
 ## 📚 Courses
 
-- 🕶️ **VR Developer** – _VR Creator Academy_, 2023
+- 🕶️ **VR Developer** – _VR Creator Academy_, present
 - 🕶️ **VR Developer** – _XR Terra_, 2022
 - 🕶️ **XR Foundations Bootcamp** – _XR Bootcamp_, 2023
 - 🎮 **Unity & C# Game Development** – _GameDevHQ_, 2021
@@ -218,5 +218,5 @@ _Space shooter and Stealth Game demos not available due to issues with simmer.io
 ## 🏆 Achievements
 
 - 🎓 _University Graduates Representative_ — UniRemington, 2024
-- 🥇 _Best Graduate Student_ — PCI, 1996
-- 🥇 _Best ICFES Score_ — PCI, 1996
+- 🥇 _Top Graduate_ — PCI, 1996
+- 🥇 _Highest ICFES Score_ — PCI, 1996
